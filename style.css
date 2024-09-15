@@ -1,0 +1,43 @@
+#cat{
+    background-color: pink;
+    color: blueviolet;  
+}
+#sf{
+    background-color: black;
+    color: red;
+}
+.menu{
+display: block;
+}
+.dj{
+    display: inline-block; 
+    color: blueviolet;
+}
+.vl{    
+    display: inline;
+    color: yellow;
+    margin: -50px;
+}
+.strelka{
+    display: block;
+    position: relative;
+   padding-top: 20%;
+    padding: 70px;
+    color:rgb(238, 0, 0);
+   background-color: rgb(204, 128, 28);
+     
+}
+.myfilm{
+    font-size: 20px;
+}
+.ecv{
+    font-size: 15px;
+}
+.main:last-child{
+   color:red;
+
+}
+.main:first-child{
+    color:brown;
+    
+}
